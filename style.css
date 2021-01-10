@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  height: 94px;
+  width: auto;
+  background-color: #562eff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  display: inline-flex;
+  color: white;
+  font-size: 24;
+  
+}
+
+.li-link a {
+  text-decoration: none;
+  color: white;
+  font-size: 24;
+  display: inline-flex;
+  justify-content: center;
+  
+
+  
+}
+
+.dp{
+    height: 51px;
+    width: 51px;
+    display: inline-flex;
+;
+}
+.dp img{
+    width: 100%;
+}
